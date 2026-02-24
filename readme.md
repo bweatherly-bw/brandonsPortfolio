@@ -3,7 +3,7 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 Portfolio
-Visit my portfolio at [https://practical-dijkstra-5d3024.netlify.app/](https://practical-dijkstra-5d3024.netlify.app/)
+Visit my portfolio at [hhttps://brandonweatherlyportfolio.netlify.app/](https://brandonweatherlyportfolio.netlify.app/)
 
 So I've had the wireframe for this particular design kicking around for some time, but with all
 the other interesting (and in some cases, semi-secret) projects I've been working on it took me
