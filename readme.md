@@ -4,7 +4,7 @@ Modern, responsive personal portfolio showcasing my background as a **Software E
 
 Live demo: [https://yourusername.github.io/portfolio/](https://yourusername.github.io/portfolio/)  
 
-## ✨ Features
+## Features
 
 - Clean, modern design using **Bootstrap 5**
 - Fully responsive (mobile-first)
@@ -16,7 +16,7 @@ Live demo: [https://yourusername.github.io/portfolio/](https://yourusername.gith
 - Semantic HTML structure
 - Easy to customize colors, content, and add new sections
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5**
 - **CSS** (Bootstrap 5.3 via CDN + custom overrides)
