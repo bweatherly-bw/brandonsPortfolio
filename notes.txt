@@ -1,0 +1,11 @@
+Need to do: 
+- Create new projects: 
+    > Bloons TD Clone 
+    > Terminal based Blackjack 
+    > JS visual Blackjack 
+    > Twitter / Social Media Clone 
+    > Full-Stack E-Commerce App Amazon, Coffee(ninja coffee), etc
+    > Android Daily Reminder Application
+    > Create a Full-Stack project that also uses AutoO, GetOTP, things like this. Could use this for the Social Media Clone ap
+    > Make apps/webapps with APIs, need to work on getting familiar with APIs 
+

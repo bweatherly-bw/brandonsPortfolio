@@ -1,24 +1,35 @@
-# Brandon's Portfolio Website
+Hyperspace by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-Modern, responsive personal portfolio showcasing my background as a **Software Engineer** transitioning into **Cybersecurity Engineering** with a specialized focus on **AI Security**.
+Portfolio
+Visit my portfolio at [https://practical-dijkstra-5d3024.netlify.app/](https://practical-dijkstra-5d3024.netlify.app/)
 
-Live demo: [https://yourusername.github.io/portfolio/](https://yourusername.github.io/portfolio/)  
+So I've had the wireframe for this particular design kicking around for some time, but with all
+the other interesting (and in some cases, semi-secret) projects I've been working on it took me
+a little while to get to actually designing and coding it. Fortunately, things have eased up
+enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
+one-page design with a lot of color, a bit of animation, and an additional "generic" page template
+(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
 
-## Features
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-- Clean, modern design using **Bootstrap 5**
-- Fully responsive (mobile-first)
-- Fixed dark navbar with smooth collapse on mobile
-- Hero section with gradient background
-- Project cards with hover effects
-- About section with circular profile photo
-- Simple contact form (demo – ready for Formspree / EmailJS integration)
-- Semantic HTML structure
-- Easy to customize colors, content, and add new sections
+(* = not included)
 
-## Tech Stack
+AJ
+aj@lkn.io | @ajlkn
 
-- **HTML5**
-- **CSS** (Bootstrap 5.3 via CDN + custom overrides)
-- **JavaScript** (vanilla + Bootstrap's bundle)
-- **Bootstrap Icons** (optional, included via CDN)
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)# __Brandon-sPortfolio__
